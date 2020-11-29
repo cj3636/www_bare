@@ -1,3 +1,3 @@
-# The Yellow Submarine Servers Official Website
+# Bare Website Skeleton
 
-`git clone https://github.com/cj3636/www.git`
+`git clone https://github.com/cj3636/www_bare.git`
